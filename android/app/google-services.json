@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "399632583384",
+    "project_id": "medialink-7e509",
+    "storage_bucket": "medialink-7e509.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399632583384:android:0f53f7fbcdd6536a7525ad",
+        "android_client_info": {
+          "package_name": "com.newwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399632583384-edmflfrpb0lobaktis7g6u0vjuaaivha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6p-Scznv4lbReUyVd94sUDo-6A0FFICo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399632583384-edmflfrpb0lobaktis7g6u0vjuaaivha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399632583384-o6fjsmnf2ft9k5o9rtkh89abs4oobi30.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.newwork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

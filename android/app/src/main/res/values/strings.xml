@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewWork</string>
+
+
+    <string name="facebook_app_id">7146168485434509</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">931a9649477f2816685bceb956d98340</string>
+
+
+</resources>
